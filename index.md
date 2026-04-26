@@ -15,7 +15,7 @@ The course should label practice problems by difficulty (easy, moderate, hard, c
 
 This line graph shows that as perceived difficulty increases, understanding decreases, suggesting that students struggle more as material becomes harder. This supports the idea that offering practice questions at different difficulty levels could help students build understanding more gradually and improve overall comprehension.
 
-
+<img src="static/imgs/Image of Difficulty vs. Understanding Line plot.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
 
 ## Prior Experience vs. Difficulty
 
