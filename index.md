@@ -6,18 +6,16 @@ layout: default
 # Practice Questions Across Different Difficulty Levels
 
 The course should label practice problems by difficulty (easy, moderate, hard, challenge) because it will help foster better understanding of concepts for students enrolled in the class. 
-    
-     This idea is the most valuable compared to the others because it directly addresses a common challenge faced by students in a challenging class like COMP110. In our opinion, implementing this is a relatively simple and realistic change that could have a meaningful impact on student learning by helping students to select the most appropriate practice structure of them and improve their understanding of cruical course concepts.
 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="<custom-path>/static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/> 
+
 
 ## Difficulty vs. Understanding
 
 This line graph shows that as perceived difficulty increases, understanding decreases, suggesting that students struggle more as material becomes harder. This supports the idea that offering practice questions at different difficulty levels could help students build understanding more gradually and improve overall comprehension.
 
-<img src="static/imgs/Image of Difficulty vs. Understanding Line plot.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
+
 
 ## Prior Experience vs. Difficulty
 
