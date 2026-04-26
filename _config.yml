@@ -55,4 +55,4 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
-theme: jekyll-theme-Merlot
+theme: jekyll-theme-merlot
